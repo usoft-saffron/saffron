@@ -9,7 +9,8 @@ This policy explains how the app handles your information.
 
 The app does not collect, transmit or sell any personal data.
 Everything you enter stays on your device. The only information that
-leaves your device is anonymous crash reports, which you can turn off.
+leaves your device is anonymous crash reports and anonymous usage
+statistics, which you can turn off.
 
 ## Data you enter
 
@@ -46,15 +47,29 @@ after a limited retention period.
 
 You can turn crash reports off at any time in Settings.
 
+## Usage statistics
+
+To understand which parts of the app are used and how fast they load,
+the app sends anonymous usage statistics to Sentry: the name of the screen
+you open (for example, "Budgets"), how long it took to load, the app version,
+the device model and operating system version.
+They do not contain your transactions, amounts, notes, account or category
+names, and they are not linked to your identity. IP addresses are not stored.
+Statistics are stored in the EU and are deleted automatically
+after a limited retention period.
+
+You can turn usage statistics off at any time in Settings.
+
 ## Analytics, advertising and tracking
 
-The app contains no analytics, advertising or tracking tools, does not
+Apart from the anonymous usage statistics described above, the app
+contains no analytics. It contains no advertising or tracking tools, does not
 track you across apps or websites and does not use advertising identifiers.
 
 ## Internet access
 
 The app works offline. It uses the internet only to send crash reports
-(if enabled). Your financial data is never sent over the internet.
+and usage statistics (if enabled). Your financial data is never sent over the internet.
 
 ## Children
 
