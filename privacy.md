@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 2026-10-16
+_Last updated: 2026-10-16_
 
 "Saffron: Expenses tracker" ("the app") is a personal finance tracker developed by Yevhen Shevchenko ("I", "me").
 This policy explains how the app handles your information.
